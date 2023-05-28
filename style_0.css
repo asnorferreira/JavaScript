@@ -1,0 +1,26 @@
+.central {text-align:center}
+h1 {color:blue; font-size: 12px;}
+
+.stitle{font-size: 50px}
+#principaltitle{font-size: 80px; color:chocolate;}
+
+p{background-color:rgb(18, 223, 196);}
+p{background-color:aquamarine;}
+p{text-align: right;}
+
+.mylist li {color:brow;}
+
+body{
+    background-image:url("image kratos.jpg");
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+}
+
+.box{
+    margin: 10px;
+    margin-top: 30px;
+    padding: 20px;
+    border: 4px solid black;
+    width: fit-content;
+    background-color: darkgoldenrod;
+}
